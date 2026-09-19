@@ -1,0 +1,77 @@
+[
+  {
+    "query": "cycling stability 10000 cycles",
+    "type": "exact",
+    "correct_chunk_ids": ["1903.08965v1_17"]
+  },
+  {
+    "query": "electrolyte ionic conductivity",
+    "type": "exact",
+    "correct_chunk_ids": ["2301.01023v1_3", "2301.01023v1_2"]
+  },
+  {
+    "query": "energy density Wh/kg",
+    "type": "exact",
+    "correct_chunk_ids": ["1311.1413v1_8", "1311.1548v1_10"]
+  },
+  {
+    "query": "specific capacitance of 98.2 F/g",
+    "type": "exact",
+    "correct_chunk_ids": ["2601.01601v1_11"]
+  },
+  {
+    "query": "capacity of 15.4 mAh/g",
+    "type": "exact",
+    "correct_chunk_ids": ["1706.07952v1_13"]
+  },
+  {
+    "query": "power allocation at 2000 W/kg",
+    "type": "exact",
+    "correct_chunk_ids": ["2005.03678v3_0"]
+  },
+  {
+    "query": "voltage window of 1.0 to 3.0 V",
+    "type": "exact",
+    "correct_chunk_ids": ["2301.03234v2_8"]
+  },
+  {
+    "query": "stability over 20000 cycles",
+    "type": "exact",
+    "correct_chunk_ids": ["2009.12034v1_10"]
+  },
+  {
+    "query": "cycling performance over 5000 cycles",
+    "type": "exact",
+    "correct_chunk_ids": ["1903.02384v1_5"]
+  },
+  {
+    "query": "how do you tell if a supercapacitor's charge storage is truly capacitive or not",
+    "type": "paraphrase",
+    "correct_chunk_ids": ["1604.08154v1_12"]
+  },
+  {
+    "query": "why is there a trade-off between fast charging and high capacitance in nanopores",
+    "type": "paraphrase",
+    "correct_chunk_ids": ["1510.05595v2_13", "1510.05595v2_10"]
+  },
+  {
+    "query": "how does the choice of solvent affect ion movement through electrode pores",
+    "type": "paraphrase",
+    "correct_chunk_ids": ["2403.01198v1_9"]
+  },
+  {
+    "query": "how do redox-active ionic liquids compare to solid pseudocapacitive materials",
+    "type": "paraphrase",
+    "correct_chunk_ids": ["1711.11518v1_10"]
+  },
+  {
+    "query": "how does electrochemical treatment increase a carbon electrode's surface area",
+    "type": "paraphrase",
+    "correct_chunk_ids": ["2008.05340v1_3"]
+  },
+  {
+    "query": "what causes reduced electrical conductivity on functionalized carbon surfaces",
+    "type": "paraphrase",
+    "correct_chunk_ids": ["1704.08405v5_3"]
+  }
+]
