@@ -1,0 +1,9 @@
+papers/
+.env
+chroma_db/
+ragvenv/
+__pycache__/
+*.py[cod]
+bm25_index.pkl
+chunks.jsonl
+metadata.json
