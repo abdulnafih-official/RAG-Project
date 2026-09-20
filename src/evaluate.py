@@ -13,7 +13,7 @@ EVAL_PATH = "eval/test_queries.json"
 CHROMA_DIR = "chroma_db"
 COLLECTION_NAME = "supercap_chunks"
 EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-TOP_K = 3
+TOP_K = 5
 
 
 def hit_at_k(ranked_ids, correct_ids, k):
